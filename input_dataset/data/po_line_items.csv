@@ -1,0 +1,14 @@
+po_number,line_no,item_code,description,hsn_sac,unit,qty,unit_price,line_net_amount
+PO-2026-1001,1,NCS-K8S-PROD,Managed Kubernetes hosting - production cluster,998315,month,3,85000,255000
+PO-2026-1001,2,NCS-SUP-PREM,Premium 24x7 support add-on,998313,month,3,12000,36000
+PO-2026-1009,1,NCS-BKP-DR,Backup & DR storage (10 TB x 3 months),998315,TB-month,30,3200,96000
+PO-2026-1010,1,OLA-MSA,Master services agreement drafting - logistics vendor,998211,lot,1,85000,85000
+PO-2026-1011,1,BOS-TEA-250,Tea bags premium (100 bags/box),0902,box,30,310,9300
+PO-2026-1011,2,BOS-COF-INS,Instant coffee 200g jar,2101,jar,24,425,10200
+PO-2026-1011,3,BOS-SUG-5K,Sugar 5 kg pack,1701,pack,12,260,3120
+PO-2026-1012,1,VIT-MON-27,27-inch IPS monitor 2560x1440,8528,pcs,15,14500,217500
+PO-2026-1012,2,VIT-HDMI-2M,HDMI 2.1 cable 2 m,8544,pcs,15,450,6750
+PO-2026-1013,1,PPK-GBX-RG,Rigid gift box with magnetic lid 10x8x3 in,4819,pcs,800,68,54400
+PO-2026-1013,2,PPK-RIB-SAT,Satin ribbon 25 mm,5806,roll,100,120,12000
+PO-2026-1014,1,SMS-VID-60,Video production - 60 sec launch film,998361,lot,1,180000,180000
+PO-2026-1014,2,SMS-CUT-SM,Social cut-downs (3 x 15 sec),998361,lot,1,35000,35000

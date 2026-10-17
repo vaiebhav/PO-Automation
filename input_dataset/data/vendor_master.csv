@@ -1,0 +1,7 @@
+vendor_id,vendor_name,gstin,gstin_state_code,address,city,bank_name,bank_account_no,ifsc,payment_terms,approval_status,billing_email,onboarded_on
+V001,Nimbus Cloud Services Pvt Ltd,29AABCN1234F1Z5,29,"4th Floor, Prestige Tech Park, Outer Ring Road, Bengaluru 560103",Bengaluru,HDFC Bank,50200041234821,HDFC0001234,Net 30,Approved,billing@nimbuscloud.example,2025-03-14
+V002,Brightline Office Supplies,27AAACB5678K1Z2,27,"112, Andheri Industrial Estate, Andheri East, Mumbai 400053",Mumbai,ICICI Bank,000405012345,ICIC0000004,Net 30,Approved,accounts@brightline.example,2024-11-02
+V005,Vertex IT Hardware,29AAGCV2468R1Z7,29,"9, Electronic City Phase 1, Bengaluru 560100",Bengaluru,Kotak Mahindra Bank,7412589630,KKBK0000123,Net 30,Approved,sales@vertexit.example,2025-06-30
+V006,Sundial Marketing Studio,36AAHCS1357T1Z4,36,"Road No. 12, Banjara Hills, Hyderabad 500034",Hyderabad,HDFC Bank,50100234567890,HDFC0000456,Net 30,Approved,hello@sundialstudio.example,2025-02-11
+V007,Pinnacle Print & Packaging,24AAICP9753L1Z6,24,"GIDC Estate, Vatva, Ahmedabad 382445",Ahmedabad,Bank of Baroda,29810200001234,BARB0VATVAX,Net 45,Approved,accounts@pinnacleprint.example,2024-05-27
+V008,Orion Legal Advisors LLP,29AAJFO8642Q1Z8,29,"7th Floor, Raheja Towers, MG Road, Bengaluru 560001",Bengaluru,ICICI Bank,123405001234,ICIC0000234,Net 15,Approved,billing@orionlegal.example,2025-04-08

@@ -1,0 +1,8 @@
+po_number,vendor_id,vendor_name,po_date,status,currency,description,net_amount,gst_rate_pct,gst_amount,total_amount,billed_to_date,remaining_balance,payment_terms,cost_center,requester
+PO-2026-1001,V001,Nimbus Cloud Services Pvt Ltd,2026-09-22,Open,INR,Managed Kubernetes hosting & support - Q4 2026,291000,18,52380.0,343380.0,0.0,343380.0,Net 30,CC-IT-210,Rohan Mehta
+PO-2026-1009,V001,Nimbus Cloud Services Pvt Ltd,2026-09-29,Open,INR,Backup & DR storage - Q4 2026,96000,18,17280.0,113280.0,0.0,113280.0,Net 30,CC-IT-210,Rohan Mehta
+PO-2026-1010,V008,Orion Legal Advisors LLP,2026-10-05,Open,INR,Master services agreement drafting - logistics vendor,85000,18,15300.0,100300.0,0.0,100300.0,Net 15,CC-LGL-001,Kavita Menon
+PO-2026-1011,V002,Brightline Office Supplies,2026-10-06,Open,INR,Pantry supplies - Q4 2026,22620,18,4071.6,26691.6,0.0,26691.6,Net 30,CC-ADM-040,Priya Nair
+PO-2026-1012,V005,Vertex IT Hardware,2026-10-08,Open,INR,Monitors - analytics team,224250,18,40365.0,264615.0,0.0,264615.0,Net 30,CC-IT-210,Rohan Mehta
+PO-2026-1013,V007,Pinnacle Print & Packaging,2026-10-07,Open,INR,Gift packaging - Diwali hampers,66400,18,11952.0,78352.0,0.0,78352.0,Net 45,CC-MKT-300,Ananya Das
+PO-2026-1014,V006,Sundial Marketing Studio,2026-10-09,Open,INR,Product launch video,215000,18,38700.0,253700.0,0.0,253700.0,Net 30,CC-MKT-300,Ananya Das

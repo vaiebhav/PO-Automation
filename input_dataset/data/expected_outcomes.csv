@@ -1,0 +1,8 @@
+file,expected_outcome
+INV-01_Nimbus_happy-path.pdf,APPROVE
+INV-10_Nimbus_happy-backup-storage.pdf,APPROVE
+INV-11_Orion_happy-MSA-drafting.pdf,APPROVE
+INV-12_Brightline_happy-pantry.pdf,APPROVE
+INV-13_Vertex_happy-monitors.pdf,APPROVE
+INV-14_Pinnacle_happy-gift-boxes.pdf,APPROVE
+INV-15_Sundial_happy-launch-video.pdf,APPROVE
